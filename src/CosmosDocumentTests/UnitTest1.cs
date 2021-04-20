@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace CosmosDocument
+namespace CosmosDocumentTests
 {
     public class UnitTest1
     {
